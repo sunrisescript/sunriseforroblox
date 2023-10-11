@@ -1,14 +1,4 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-
--- this is the sunrise script
--- do not skid or u get exposed
--- if u leak then blacklist
--- Made with Love <3 by skiddythedev , davidthebestgamer and laser.vape
-
-
-
-
-
 function script()
     local Window = Library.CreateLib("Sunrise", "LightTheme")
 
